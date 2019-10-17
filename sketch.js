@@ -7,7 +7,6 @@ var tx = 500, ty = 0              //Barrel Translate
 
 
 function preload(){
-  soundFormats('mp3', 'wav');
   song = loadSound("007.mp3");
 }
 
