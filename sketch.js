@@ -12,7 +12,6 @@ var tx3 = 130
 var tx4 = 0
 
 function preload(){
-  soundFormats('mp3', 'wav');
   song = loadSound("007.mp3");
 }
 
