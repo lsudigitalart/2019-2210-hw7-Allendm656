@@ -11,6 +11,7 @@ var tx2 = -400
 var tx3 = 130
 var tx4 = 0
 
+
 function preload(){
   song = loadSound("007.mp3");
 }
